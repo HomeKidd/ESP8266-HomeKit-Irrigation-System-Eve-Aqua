@@ -1,25 +1,31 @@
-# Native  Homekit support for ESP8266/ESP8285 based [Wi-Fi Smart Valves](https://s.click.aliexpress.com/e/_eKmITN) that acts like a real Eve Aqua 💦🚰
+# Native  Homekit support for ESP8266/ESP8285 based [Wi-Fi Smart Valves](https://s.click.aliexpress.com/e/_ANIf7J) that acts like a real Eve Aqua 💦🚰
 ------
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/homekidd?label=Follow&logo=instagram&style=social)](https://www.instagram.com/homekidd) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/HomeKiid?label=Like&logo=facebook&style=social)](https://www.facebook.com/HomeKiid) [![YouTube URL](https://img.shields.io/twitter/url/https/www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA?label=Follow&logo=youtube&style=social)](https://www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA)
 ------
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet/total?color=green)](https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet/releases) 
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet/releases) 
+[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/ESP8266-HomeKit-Irrigation-System-Eve-Aqua/total?color=green)](https://github.com/HomeKidd/ESP8266-HomeKit-Irrigation-System-Eve-Aqua/releases) 
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/ESP8266-HomeKit-Irrigation-System-Eve-Aqua?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/ESP8266-HomeKit-Irrigation-System-Eve-Aqua/releases) 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYEK69ZYG69S&source=url)
 <br/>
 <br/>
 
-# For usage and more information please read the [Wiki page](https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet/wiki/)!
+# For usage and more information please read the [Wiki page](https://github.com/HomeKidd/ESP8266-HomeKit-Irrigation-System-Eve-Aqua/wiki/)!
 
-~~Also available for Sonoff Switches which you can find [here](https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Switch)! 🤓~~
+**This HomeKit enabled Valve works the same as [Elgato Aqua](https://www.evehome.com/en/eve-aqua)!** 
 
 **Features:**
 
-* **Smart Outlet HomeKit accessory**
-* Turning the Outlet ON/OFF
-* Child Lock _(Enable/Disable button press via Eve app)_
+* **Irrigation Valve HomeKit accessory**
+* Turning the Irrigation ON/OFF
+* Watering duration 
+* Water Consumption _(via Eve app)_
+* Flow rate _(used for calculating water consumption)_
+* Child Lock _(via Eve app)_
+* ~~Watering history _(via Eve app)_~~ Still work in progress 👷‍
+* ~~Schedules _(via Eve app)_~~ Still work in progress 👷‍
+* Downloadable user manual _(via Eve app)_
 * Power / Reset button
-* **Supported Devices: [Sonoff S20](https://s.click.aliexpress.com/e/_eKqZGb), [S26](https://s.click.aliexpress.com/e/_eM5HM3), [S31](https://s.click.aliexpress.com/e/_etenM3) and [S55](https://s.click.aliexpress.com/e/_et4QWX)**
+* **Supported Device(s): [BQ-05 Smart Valve](https://s.click.aliexpress.com/e/_ANIf7J)**
 * ~~OTA firmware update~~
 
 **Demo:**
