@@ -17,7 +17,7 @@
 
 * **Irrigation Valve HomeKit accessory**
 * Turning the Irrigation ON/OFF
-* Watering duration 
+* Watering duration from 10 seconds to 4 hours
 * Water Consumption _(via Eve app)_
 * Flow rate _(used for calculating water consumption)_
 * Child Lock _(via Eve app)_
