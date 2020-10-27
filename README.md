@@ -32,7 +32,7 @@
 
 [![](http://img.youtube.com/vi/TG9xq7itfwh0k/0.jpg)](http://www.youtube.com/watch?v=TG9ffxq7ith0k "Demo Video")
 <br/>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet/raw/master/Images/demo.jpg" class="center" width="500"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Irrigation-System-Eve-Aqua/raw/main/images/irrigation.jpg" class="center" width="500"/>
 
 <br/>
 <br/>
