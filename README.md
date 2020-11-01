@@ -13,6 +13,8 @@
 
 **This HomeKit enabled Valve works the same as [Elgato Aqua](https://www.evehome.com/en/eve-aqua)!** 
 
+# Currently in beta phase! So HomeKit code is 111-11-111 and LED's GPIO changed for GPIO2 -> ESP12 built-in LED!! 👷‍
+
 **Features:**
 
 * **Irrigation Valve HomeKit accessory**
@@ -25,8 +27,7 @@
 * ~~Schedules _(via Eve app)_~~ Still work in progress 👷‍
 * Downloadable user manual _(via Eve app)_
 * Power / Reset button
-* **Supported Device(s): [BQ-05 Smart Valve](https://s.click.aliexpress.com/e/_ANIf7J)**
-* ~~OTA firmware update~~
+* **Supported Device(s): [BQ-05 Smart Valve](https://s.click.aliexpress.com/e/_ANIf7J), [Sonoff Basic](http://s.click.aliexpress.com/e/cXfl15k4)**
 
 **Demo:**
 
