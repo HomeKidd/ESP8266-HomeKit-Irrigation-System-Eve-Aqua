@@ -28,6 +28,7 @@
 * Downloadable user manual _(via Eve app)_
 * Power / Reset button
 * **Supported Device(s): [BQ-05 Smart Valve](https://s.click.aliexpress.com/e/_ANIf7J), [Sonoff Basic](http://s.click.aliexpress.com/e/cXfl15k4)**
+* Perfect for [Drip Irrigation Systems](https://s.click.aliexpress.com/e/_AWcA4Z) 💦
 
 **Demo:**
 
