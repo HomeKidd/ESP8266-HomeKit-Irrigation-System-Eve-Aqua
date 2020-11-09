@@ -13,7 +13,6 @@
 
 **This HomeKit enabled Valve works the same as [Elgato Aqua](https://www.evehome.com/en/eve-aqua)!** 
 
-# Currently in beta phase! So HomeKit code is 111-11-111 and LED's GPIO changed for GPIO2 -> ESP12 built-in LED!! 👷‍
 
 **Features:**
 
